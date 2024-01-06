@@ -3,9 +3,6 @@
 
 ### ty [Byte#9476] for fixing the forwarding issue!!
 
-[extra help discord server](https://discord.gg/9HfPSp3D)
-|
-[anotha one](https://discord.gg/FBqfmDkF2Z)
 
 ### smashed together by [ayunami2000](https://github.com/ayunami2000)
 ### refurbished by [EstaticYT](https://www.youtube.com/channel/UCbdWfxvmD7s2sML9Y3YX4VQ)
@@ -20,9 +17,7 @@ motd changing is DIFFERENT than what these tutorials say!! -- check the `java/bu
 ### TUTORIAL COMING SOON
 
 ## Usage:
-currently unclear'
-"
-".github/workflows/sync.yml"
+
 
 ##
 
@@ -32,13 +27,13 @@ currently unclear'
 Replace the `server-icon.png` file under `java/bungee_command` with your desired server icon.
 
 ## To run server commands:
-In the Terminal tab in Glitch, run commands without the /
+In the Console, run commands without the /
 
 ## To save progress:
 **Notice: This is now done automatically, every 30 seconds, using a plugin!** In the server console or in-game as an opped player, run `/save-all` to save the world.
 
 ## Too slow?
-This is because you are using a free service to host a Minecraft server. Of course it is slow and the only way to fix this is to self-host at home.
+-This is because you are using a free service to host a Minecraft server. Of course it is slow and the only way to fix this is to self-host at home.-
 
 ## Getting admin/OP or enabling command blocks
 To give yourself OP (admin), go to the server console and run `op username` and press enter (replacing "username" with your username in-game).

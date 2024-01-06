@@ -20,7 +20,9 @@ motd changing is DIFFERENT than what these tutorials say!! -- check the `java/bu
 ### TUTORIAL COMING SOON
 
 ## Usage:
-currently unclear
+currently unclear'
+"
+".github/workflows/sync.yml"
 
 ##
 
